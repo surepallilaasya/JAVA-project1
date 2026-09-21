@@ -6,25 +6,25 @@ ATM Transaction Simulator is a Java based console application that simulates com
 
 -->Features
 
-PIN verification
+.PIN verification
 
-Balance checking
+.Balance checking
 
-Money deposit
+.Money deposit
 
-Money withdrawal
+.Money withdrawal
 
-Money transfer
+.Money transfer
 
-Transaction history
+.Transaction history
 
-Menu driven interface
+.Menu driven interface
 
-Technologies Used
+.Technologies Used
 
-Programming Language Java
+.Programming Language Java
 
-Application Type Console Based Application
+.Application Type Console Based Application
 
 -->Java Concepts Used
 
